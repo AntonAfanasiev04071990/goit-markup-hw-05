@@ -634,7 +634,6 @@ body {
   border: 1px solid rgba(0, 0, 0, 0.1);
   padding: 0;
   cursor: pointer;
-  border: none;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -659,7 +658,7 @@ body {
   fill: #fff;
 }
 
-.modal-open:focus + .modal-close:focus {
+.modal-close:focus {
   fill: #fff;
 }
 
