@@ -648,6 +648,7 @@ body {
 
 .modal-open:focus {
   background-color: #404bbf;
+  border: none;
 }
 
 .modal-close {
